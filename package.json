@@ -1,6 +1,6 @@
 {
   "name": "portfolio",
-  "homepage": "https://SahilMangla14.github.io/Portfolio",
+  "homepage": "https://Ishwar-iitrpr29.github.io/portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -9,7 +9,6 @@
     "@testing-library/user-event": "^13.5.0",
     "aos": "^3.0.0-beta.6",
     "emailjs-com": "^3.2.0",
-    "gh-pages": "^5.0.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-icons": "^4.9.0",
@@ -46,6 +45,7 @@
     ]
   },
   "devDependencies": {
+    "gh-pages": "^6.3.0",
     "tailwindcss": "^3.3.2"
   }
 }
