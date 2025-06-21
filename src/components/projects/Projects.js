@@ -46,6 +46,13 @@ const Projects = () => {
                         src={gomory}
                         github_link= "https://github.com/Ishwar-iitrpr29/MyEBank"
                     />
+                    <ProjectsCard
+                        title="TrackForces"
+                        des="Developed TrackForces, a web-based analytics tool using HTML, CSS, and JavaScript integrated with the Codeforces API. Enabled detailed analysis and comparison of Codeforces user profiles through interactive charts and statistics. Implemented a unique feature to simulate virtual contests among any set of users. Focused on real-time data manipulation and clean UI for enhanced user experience."
+                        tech = "Tech Stack: HTML, CSS, JavaScript, CodeForces API"
+                        src={boha}
+                        github_link= "https://github.com/Ishwar-iitrpr29/Codeforces_Analysis_API"
+                    />
 
                 </div>
             </section>
