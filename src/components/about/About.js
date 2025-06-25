@@ -49,7 +49,7 @@ const About = () => {
     {/* Download CV Button */}
     <div className="w-full mt-10 flex justify-center md:justify-start">
       <a
-        href=""
+        href="https://drive.google.com/file/d/1pbTvTYy1z3D91CgV7CnQ38YdYcynWc0M/view?usp=sharing"
         target="_blank"
         rel="noopener noreferrer"
         className="w-full max-w-[300px]"
